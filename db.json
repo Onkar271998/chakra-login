@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "Email": "onkar@gmail.com",
+      "Password": "12345"
+    },
+    {
+      "id": 2,
+      "Email": "raman@gmail.com",
+      "Password": "123456"
+    },
+    {
+      "Email": "eve.holt@reqres.in",
+      "Password": "cityslicka",
+      "id": 3
+    },
+    {
+      "Email": "xyz",
+      "Password": "7894",
+      "id": 4
+    },
+    {
+      "Email": "cvc",
+      "Password": "524",
+      "id": 5
+    },
+    {
+      "Email": "hjk",
+      "Password": "423",
+      "id": 6
+    },
+    {
+      "Email": "sss",
+      "Password": "sss",
+      "id": 7
+    }
+  ]
+}
